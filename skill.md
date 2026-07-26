@@ -29,6 +29,10 @@ Use this file only as the router.
 
 - Luau code -> `knowledge/luau.md`
 - Studio/project structure -> `knowledge/studio.md`
+- Project architecture -> `knowledge/project-architecture.md`
+- Service boundaries -> `knowledge/service-boundaries.md`
+- State management -> `knowledge/state-management.md`
+- Replication/state sync -> `knowledge/replication.md`
 - Asset import or marketplace selection -> `knowledge/creator-store.md`
 - Security, remotes, or data handling -> `knowledge/security.md`
 - Networking and replication -> `knowledge/networking.md`
@@ -39,6 +43,7 @@ Use this file only as the router.
 - NPCs and AI -> `knowledge/npc.md`
 - Performance -> `knowledge/optimization.md` and `workflows/optimize-game.md`
 - Saving data -> `knowledge/datastore.md`
+- Versioning -> `knowledge/versioning.md`
 - Lighting and mood -> `knowledge/lighting.md`
 - Input and controls -> `knowledge/input.md`
 - Audio -> `knowledge/audio.md`
