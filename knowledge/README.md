@@ -5,6 +5,8 @@ description: Use when routing Roblox development tasks to the correct knowledge 
 
 # Knowledge Index
 
+Choose the smallest module that fits the task.
+
 - luau.md
 - studio.md
 - creator-store.md
@@ -19,3 +21,5 @@ description: Use when routing Roblox development tasks to the correct knowledge 
 - testing.md
 - publishing.md
 - plugins.md
+- datastore.md
+- lighting.md
