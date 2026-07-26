@@ -31,8 +31,27 @@ Use this file only as the router.
 - Studio/project structure -> `knowledge/studio.md`
 - Asset import or marketplace selection -> `knowledge/creator-store.md`
 - Security, remotes, or data handling -> `knowledge/security.md`
+- Networking and replication -> `knowledge/networking.md`
 - UI work -> `knowledge/ui.md` and `workflows/build-ui.md`
+- Building or level layout -> `knowledge/building.md`
+- Terrain and natural spaces -> `knowledge/terrain.md`
+- Animation -> `knowledge/animation.md`
+- NPCs and AI -> `knowledge/npc.md`
+- Performance -> `knowledge/optimization.md` and `workflows/optimize-game.md`
+- Saving data -> `knowledge/datastore.md`
+- Lighting and mood -> `knowledge/lighting.md`
+- Input and controls -> `knowledge/input.md`
+- Audio -> `knowledge/audio.md`
+- Camera -> `knowledge/camera.md`
+- Physics -> `knowledge/physics.md`
+- Game design and pacing -> `knowledge/game-design.md`
+- Economy and progression -> `knowledge/economy.md`
+- Messaging -> `knowledge/messaging.md`
+- Pathfinding -> `knowledge/pathfinding.md`
+- Teleportation -> `knowledge/teleport.md`
+- Tag-based discovery -> `knowledge/collectionservice.md`
+- Remote patterns -> `knowledge/remote-patterns.md`
+- Plugins -> `knowledge/plugins.md`
 - Game creation -> `workflows/create-game.md`
 - Debugging -> `workflows/debug-game.md`
-- Performance -> `knowledge/optimization.md` and `workflows/optimize-game.md`
 - Publishing -> `knowledge/publishing.md` and `workflows/publish.md`
