@@ -9,6 +9,10 @@ Choose the smallest module that fits the task.
 
 - luau.md
 - studio.md
+- project-architecture.md
+- service-boundaries.md
+- state-management.md
+- replication.md
 - creator-store.md
 - security.md
 - networking.md
@@ -24,6 +28,7 @@ Choose the smallest module that fits the task.
 - publishing.md
 - plugins.md
 - datastore.md
+- versioning.md
 - lighting.md
 - input.md
 - audio.md
