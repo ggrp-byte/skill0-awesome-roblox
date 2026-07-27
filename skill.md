@@ -31,8 +31,20 @@ Use this file only as the router.
 - Studio/project structure -> `knowledge/studio.md`
 - Project architecture -> `knowledge/project-architecture.md`
 - Service boundaries -> `knowledge/service-boundaries.md`
+- Service lifecycle -> `knowledge/service-lifecycle.md`
 - State management -> `knowledge/state-management.md`
 - Replication/state sync -> `knowledge/replication.md`
+- Module loading -> `knowledge/module-loading.md`
+- Dependency management -> `knowledge/dependency-management.md`
+- Configuration -> `knowledge/configuration.md`
+- Conventions -> `knowledge/conventions.md`
+- API design -> `knowledge/api-design.md`
+- Startup and initialization -> `knowledge/startup.md`
+- Error handling -> `knowledge/error-handling.md`
+- Observability -> `knowledge/observability.md`
+- Cleanup and teardown -> `knowledge/cleanup.md`
+- Compatibility -> `knowledge/compatibility.md`
+- Feature flags -> `knowledge/feature-flags.md`
 - Asset import or marketplace selection -> `knowledge/creator-store.md`
 - Security, remotes, or data handling -> `knowledge/security.md`
 - Networking and replication -> `knowledge/networking.md`
