@@ -30,6 +30,8 @@ Use this module for anything that crosses the client-server boundary.
 - Use only when a synchronous response is necessary.
 - Avoid heavy work inside the callback.
 - Never let the client drive expensive server logic.
+- A caller can appear to hang or block while waiting for the server response, so keep the handler fast and reliable.
+- Do not use RemoteFunction for long tasks that should be asynchronous.
 
 ## Replication rules
 
